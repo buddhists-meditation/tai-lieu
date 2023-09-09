@@ -90,7 +90,8 @@ Hành giả quan sát chánh niệm hơi thở ra vào bằng cách dán tâm v�
 
 ####  Theo dõi hơi thở dài, hơi thở ngắn
 
-    Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” hay thở vô ngắn, vị ấy tuệ tri: “Tôi thở vô ngắn”hay thở ra ngắn, vị ấy tuệ tri: “Tôi thở ra ngắn”.
+    Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” 
+    hay thở vô ngắn, vị ấy tuệ tri: “Tôi thở vô ngắn”hay thở ra ngắn, vị ấy tuệ tri: “Tôi thở ra ngắn”.
 
 Khi thở vô dài hành giả biết rõ đang thở vô dài. Khi hơi thở ra dài, hành giả biết rõ đang thở ra dài. Khi thở vô ngắn, hành giả biết rõ đang thở vô ngắn (Thời gian hơi thở "vào", chạm vào chót mũi cho đến khi ở rốn so với thời gian hơi thở "ra" từ rốn cho đến khi ra hết bên ngoài chóp mũi; nếu thời gian nào lâu hơn gọi là "hơi thở vô dài, hơi thở ra dài", thời gian nào nhanh hơn gọi là "hơi thở vô ngắn, hơi thở ra ngắn").
 
