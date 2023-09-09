@@ -84,14 +84,14 @@ Trước hết hành giả chỉ làm một việc đơn giản là chánh niệ
 
 
 ####  Nhận diện hơi thở vào, hơi thở ra
-     “Chánh niệm, vị ấy thở vô; chánh niệm vị ấy thở ra”.
+> “Chánh niệm, vị ấy thở vô; chánh niệm vị ấy thở ra”.
 
 Hành giả quan sát chánh niệm hơi thở ra vào bằng cách dán tâm vào hơi thở trên một điểm (môi trên hay mũi); không phóng tâm. Ở bước một, lâu mau tùy người, hành giả chỉ lo một việc là chánh niệm (tức là biết) trong hơi thở vào ra bằng cách chú ý ở mũi hoặc môi trên (là nơi ra vào của hơi thở) miễn sao tâm dán chặt vào cảnh hơi thở, không để hơi thở nào không được ghi nhận.
 
 ####  Theo dõi hơi thở dài, hơi thở ngắn
 
-    Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” 
-    hay thở vô ngắn, vị ấy tuệ tri: “Tôi thở vô ngắn”hay thở ra ngắn, vị ấy tuệ tri: “Tôi thở ra ngắn”.
+> Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” 
+  hay thở vô ngắn, vị ấy tuệ tri: “Tôi thở vô ngắn”hay thở ra ngắn, vị ấy tuệ tri: “Tôi thở ra ngắn”.
 
 Khi thở vô dài hành giả biết rõ đang thở vô dài. Khi hơi thở ra dài, hành giả biết rõ đang thở ra dài. Khi thở vô ngắn, hành giả biết rõ đang thở vô ngắn (Thời gian hơi thở "vào", chạm vào chót mũi cho đến khi ở rốn so với thời gian hơi thở "ra" từ rốn cho đến khi ra hết bên ngoài chóp mũi; nếu thời gian nào lâu hơn gọi là "hơi thở vô dài, hơi thở ra dài", thời gian nào nhanh hơn gọi là "hơi thở vô ngắn, hơi thở ra ngắn").
 
@@ -99,7 +99,7 @@ Khi thở vô dài hành giả biết rõ đang thở vô dài. Khi hơi thở r
 
 ####  Nhận diện sự có mặt của toàn thân
 
-    “Cảm giác toàn thân, tôi sẽ thở vô”, vị ấy tập.“Cảm giác toàn thân, tôi sẽ thở ra, vị ấy tập”.
+> “Cảm giác toàn thân, tôi sẽ thở vô”, vị ấy tập.“Cảm giác toàn thân, tôi sẽ thở ra, vị ấy tập”.
 
 
 Khi đang thở ra, hành giả nhận rõ cả ba giai đoạn đầu (mũi), giữa (ngực), cuối (rốn) của hơi thở ra. Khi đang thở vô, hành giả ghi nhận rõ cả ba giai đoạn đầu (mũi), giữa (ngực) và cuối (rốn) của hơi thở vô: Ở bước thứ ba, Định, Niệm càng mạnh hơn, hành giả không xem hơi thở như là luồng khí nữa mà là một quá trình có ba giai đoạn đầu, giữa và cuối. Nó bắt đầu ra sao, chững lại và kết thúc. Toàn thân ở đây ám chỉ hơi thở. Ý thức về toàn thân (cảm giác toàn thân) không phải chỉ toàn bộ thân thể hành giả, thân ở đây chỉ cho hơi thở. Với một tâm loạn động không thể cảm giác toàn bộ qui trình hơi thở vào, hơi thở ra, hành giả cần phải tập để nhận biết trọn vẹn ba giai đoạn: Chặng đầu - giữa - cuối của hơi thở. Và cũng cần được hiểu từ “cảm giác”, “an tịnh” là chỉ cho trạng thái thô tế.
@@ -109,7 +109,7 @@ Khi đang thở ra, hành giả nhận rõ cả ba giai đoạn đầu (mũi), g
 
 An tịnh thân hành, thở vào, thở ra:
 
-    “An tịnh thân hành, tôi sẽ thở vô”, vị ấy tập. “An tịnh thân hành, tôi sẽ thở ra”, vị ấy tập.
+> “An tịnh thân hành, tôi sẽ thở vô”, vị ấy tập. “An tịnh thân hành, tôi sẽ thở ra”, vị ấy tập.
 
 Khi đang thở ra, hành giả giữ cho hơi thở được nhẹ nhàng. Khi đang thở vô, hành giả giữ cho hơi thở được nhẹ nhàng: Lìa bỏ cách thở thô nặng (khi thân tâm giao động) bằng cách thở vào ra nông và nhẹ hơn (khi thân tâm lắng dịu). Lúc này, nội tâm đã ổn định, hành giả nhận ra hơi thở của mình lúc này không còn thô tháo nữa.Ở bước thứ tư này, nói là làm nhẹ hơi thở vào ra nhưng kỳ thực là với một nội tâm đã ổn định, hành giả nhận ra rằng hơi thở của mình lúc này không thô tháo nữa. Định Niệm càng mạnh hơn, khi hành giả ghi nhận rõ ràng cả ba giai đoạn trên. Và được xem là hoàn hảo khi hành giả thấy hơi thở biến mất, dù biết thực ra nó vẫn còn đấy nhưng tâm vẫn không lìa niệm.
 
@@ -129,26 +129,25 @@ Như vậy, khi hơi thở được tu tập qua bốn giai đoạn: Dài-ngắn
 
 Hành giả sẽ thở ra vào bằng niềm Hỷ Duyệt của Sơ-Nhị Thiền:
 
-    :“Ta đang thở vào và cảm thấy mừng vui. Ta đang thở ra và cảm thấy mừng vui. Vị ấy thực tập như thế”.
+> “Ta đang thở vào và cảm thấy mừng vui. Ta đang thở ra và cảm thấy mừng vui. Vị ấy thực tập như thế”.
 
 ####  Chế tác hạnh phúc (lạc)
 
 Hành giả sẽ thở ra vào bằng sự an lạc của Tam Thiền:
 
-    “Ta đang thở vào và cảm thấy an lạc. Ta đang thở ra và cảm thấy an lạc. Vị ấy thực tập như thế”.
+> “Ta đang thở vào và cảm thấy an lạc. Ta đang thở ra và cảm thấy an lạc. Vị ấy thực tập như thế”.
 
 ####  Nhận diện cảm thọ
 
 Hành giả sẽ thở ra vào bằng sự thanh thản của Tứ Thiền:
 
-    “Ta đang thở vào và có ý thức về những hoạt động tâm ý trong ta. Ta đang thở ra và có ý thức về những hoạt động tâm ý trong ta.
+> “Ta đang thở vào và có ý thức về những hoạt động tâm ý trong ta. Ta đang thở ra và có ý thức về những hoạt động tâm ý trong ta.
     Vị ấy thực tập như thế”.
  
-
 ####  Làm lắng dịu những cảm thọ
  Hành giả sẽ thở ra vào bằng sự lắng đọng của Thọ và Tưởng ở tầng Tứ Thiền:
 
-    “Ta đang thở vào và làm cho những hoạt động tâm ý trong ta được an tịnh. 
+> “Ta đang thở vào và làm cho những hoạt động tâm ý trong ta được an tịnh. 
     Ta đang thở ra và làm cho những hoạt động tâm ý trong ta được an tịnh. Vị ấy thực tập như thế”.
 
 * Trong bước năm chúng ta nhận thấy hơi thở chuyển về Thọ. Do điều chỉnh hơi thở, quán niệm hơi thở, và làm cho sự vận hành và hoạt động trong cơ thể [thân hành (kāya-samkhāra)] được êm dịu và vi tế mà cảm thọ vui thích phát sinh. Đây là lạc thọ, và là tiến trình tự nhiên do bước bốn (hơi thở 4) đem lại.
@@ -167,25 +166,25 @@ Hành giả sẽ thở ra vào bằng sự thanh thản của Tứ Thiền:
 
 Hành giả sẽ thở ra vào với sự cảm nhận tâm thái của người chứng Sơ thiền:
 
-    “Ta đang thở vào và có ý thức về tâm ý ta. Ta đang thở ra và có ý thức về tâm ý ta.Vị ấy thực tập như thế”.
+> “Ta đang thở vào và có ý thức về tâm ý ta. Ta đang thở ra và có ý thức về tâm ý ta.Vị ấy thực tập như thế”.
 
 ####  Làm hoan lạc tâm ý (tâm hành)
 
 Hành giả sẽ thở ra vào với niềm an lạc của người chứng Nhị Thiền:
 
-    “Ta đang thở vào và làm cho tâm ý ta hoan lạc. Ta đang thở ra và làm cho tâm ý ta hoan lạc”. Vị ấy thực tập như thế”.
+> “Ta đang thở vào và làm cho tâm ý ta hoan lạc. Ta đang thở ra và làm cho tâm ý ta hoan lạc”. Vị ấy thực tập như thế”.
 
 ####  Thu nhiếp tâm ý vào định
 
 Hành giả sẽ thở ra vào với khả năng định tâm của Tam và Tứ Thiền:
 
-    “Ta đang thở vào và thu nhiếp tâm ý ta vào định. Ta đang thở ra và thu nhiếp tâm ý ta vào định. Vị ấy thực tập như thế”
+> “Ta đang thở vào và thu nhiếp tâm ý ta vào định. Ta đang thở ra và thu nhiếp tâm ý ta vào định. Vị ấy thực tập như thế”
 
 ####  Cởi trói tâm ý được giải thoát, tự do
 
 Hành giả sẽ thở ra vào với nội tâm xa lìa phiền não của người chứng thiền:
 
-    “Ta đang thở vào và cởi mở cho tâm ý ta được giải thoát tự do. Ta đang thở ra và cởi mở cho tâm ý ta được giải thoát tự do.
+> “Ta đang thở vào và cởi mở cho tâm ý ta được giải thoát tự do. Ta đang thở ra và cởi mở cho tâm ý ta được giải thoát tự do.
     Vị ấy thực tập như thế”
 
 Bốn bước hơi thở thứ chín, mười, mười một và mười hai chuyển về đối tượng tâm. Tâm (citta) là tất cả những hoạt động của tâm (tâm hành) gồm có cảm giác (thọ), tri giác (tưởng) và mọi trạng thái tâm lý (hành).
@@ -206,14 +205,14 @@ Bốn bước của giai đoạn bốn trong pháp niệm hơi thở này là gi
 
 Hành giả tâm niệm về tánh Vô Thường của Danh Sắc:
 
-    “Ta đang thở vào và quán chiếu tính vô thường của vạn pháp. Ta đang thở ra và quán chiếu tính vô thường của vạn pháp.
+> “Ta đang thở vào và quán chiếu tính vô thường của vạn pháp. Ta đang thở ra và quán chiếu tính vô thường của vạn pháp.
     Vị ấy thực tập như thế”.
 
 ####  Quán chiếu về sự không đáng tham cầu và vướng mắc
 
  Hành giả với tâm niệm hướng đến tánh Ly Tham của Niết-bàn:
 
-    “Ta đang thở vào và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. 
+> “Ta đang thở vào và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. 
     Ta đang thở ra và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. 
     Vị ấy thực tập như thế.”
 
@@ -221,7 +220,7 @@ Hành giả tâm niệm về tánh Vô Thường của Danh Sắc:
 
 Hành giả với tâm niệm về tánh Tịch Diệt của Niết bàn:
 
-    “Ta đang thở vào và quán chiếu về bản chất không sinh diệt của vạn pháp. 
+> “Ta đang thở vào và quán chiếu về bản chất không sinh diệt của vạn pháp. 
     Ta đang thở ra và quán chiếu về bản chất không sinh diệt của vạn pháp. 
     Vị ấy thực tập như thế”.
 
@@ -229,7 +228,7 @@ Hành giả với tâm niệm về tánh Tịch Diệt của Niết bàn:
 
 Hành giả với tâm niệm về tánh Xả Ly của Niết bàn:
 
-    “Ta đang thở vào và quán chiếu về sự buông bỏ. Ta đang thở ra và quán chiếu về sự buông bỏ. Vị ấy thực tập như thế”.
+> “Ta đang thở vào và quán chiếu về sự buông bỏ. Ta đang thở ra và quán chiếu về sự buông bỏ. Vị ấy thực tập như thế”.
 
 * Hơi thở mười ba quán chiếu về tính chuyển biến vô thường của vạn pháp, tâm lý, sinh lý và vật lý. Chính hơi thở cũng là vô thường. Phép quán này rất quan trọng bởi vì nó khai mở cho ta thấy tính cách tương quan tương duyên của vạn vật cũng như tính cách vô ngã (không có tự ngã riêng biệt) của các pháp.
 
