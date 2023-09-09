@@ -90,7 +90,7 @@ Hành giả quan sát chánh niệm hơi thở ra vào bằng cách dán tâm v�
 
 ####  Theo dõi hơi thở dài, hơi thở ngắn
 
-    Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” \
+    Thở vô dài, vị ấy tuệ tri: “Tôi thở vô dài”. Thở ra dài, vị ấy tuệ tri: “Tôi thở ra dài” 
     hay thở vô ngắn, vị ấy tuệ tri: “Tôi thở vô ngắn”hay thở ra ngắn, vị ấy tuệ tri: “Tôi thở ra ngắn”.
 
 Khi thở vô dài hành giả biết rõ đang thở vô dài. Khi hơi thở ra dài, hành giả biết rõ đang thở ra dài. Khi thở vô ngắn, hành giả biết rõ đang thở vô ngắn (Thời gian hơi thở "vào", chạm vào chót mũi cho đến khi ở rốn so với thời gian hơi thở "ra" từ rốn cho đến khi ra hết bên ngoài chóp mũi; nếu thời gian nào lâu hơn gọi là "hơi thở vô dài, hơi thở ra dài", thời gian nào nhanh hơn gọi là "hơi thở vô ngắn, hơi thở ra ngắn").
@@ -141,13 +141,15 @@ Hành giả sẽ thở ra vào bằng sự an lạc của Tam Thiền:
 
 Hành giả sẽ thở ra vào bằng sự thanh thản của Tứ Thiền:
 
-    “Ta đang thở vào và có ý thức về những hoạt động tâm ý trong ta. Ta đang thở ra và có ý thức về những hoạt động tâm ý trong ta. \ Vị ấy thực tập như thế”.
+    “Ta đang thở vào và có ý thức về những hoạt động tâm ý trong ta. Ta đang thở ra và có ý thức về những hoạt động tâm ý trong ta.
+    Vị ấy thực tập như thế”.
  
 
 ####  Làm lắng dịu những cảm thọ
  Hành giả sẽ thở ra vào bằng sự lắng đọng của Thọ và Tưởng ở tầng Tứ Thiền:
 
-    “Ta đang thở vào và làm cho những hoạt động tâm ý trong ta được an tịnh.\ Ta đang thở ra và làm cho những hoạt động tâm ý trong ta được an tịnh. \Vị ấy thực tập như thế”.
+    “Ta đang thở vào và làm cho những hoạt động tâm ý trong ta được an tịnh. 
+    Ta đang thở ra và làm cho những hoạt động tâm ý trong ta được an tịnh. Vị ấy thực tập như thế”.
 
 * Trong bước năm chúng ta nhận thấy hơi thở chuyển về Thọ. Do điều chỉnh hơi thở, quán niệm hơi thở, và làm cho sự vận hành và hoạt động trong cơ thể [thân hành (kāya-samkhāra)] được êm dịu và vi tế mà cảm thọ vui thích phát sinh. Đây là lạc thọ, và là tiến trình tự nhiên do bước bốn (hơi thở 4) đem lại.
 
@@ -183,7 +185,8 @@ Hành giả sẽ thở ra vào với khả năng định tâm của Tam và Tứ
 
 Hành giả sẽ thở ra vào với nội tâm xa lìa phiền não của người chứng thiền:
 
-    “Ta đang thở vào và cởi mở cho tâm ý ta được giải thoát tự do. Ta đang thở ra và cởi mở cho tâm ý ta được giải thoát tự do. \ Vị ấy thực tập như thế”
+    “Ta đang thở vào và cởi mở cho tâm ý ta được giải thoát tự do. Ta đang thở ra và cởi mở cho tâm ý ta được giải thoát tự do.
+    Vị ấy thực tập như thế”
 
 Bốn bước hơi thở thứ chín, mười, mười một và mười hai chuyển về đối tượng tâm. Tâm (citta) là tất cả những hoạt động của tâm (tâm hành) gồm có cảm giác (thọ), tri giác (tưởng) và mọi trạng thái tâm lý (hành).
 
@@ -203,19 +206,24 @@ Bốn bước của giai đoạn bốn trong pháp niệm hơi thở này là gi
 
 Hành giả tâm niệm về tánh Vô Thường của Danh Sắc:
 
-    “Ta đang thở vào và quán chiếu tính vô thường của vạn pháp. Ta đang thở ra và quán chiếu tính vô thường của vạn pháp. \ Vị ấy thực tập như thế”.
+    “Ta đang thở vào và quán chiếu tính vô thường của vạn pháp. Ta đang thở ra và quán chiếu tính vô thường của vạn pháp.
+    Vị ấy thực tập như thế”.
 
 ####  Quán chiếu về sự không đáng tham cầu và vướng mắc
 
  Hành giả với tâm niệm hướng đến tánh Ly Tham của Niết-bàn:
 
-    “Ta đang thở vào và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. \ Ta đang thở ra và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. \Vị ấy thực tập như thế.”
+    “Ta đang thở vào và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. 
+    Ta đang thở ra và quán chiếu về tính không đáng tham cầu và vướng mắc của vạn pháp. 
+    Vị ấy thực tập như thế.”
 
 ####  Quán chiếu về Niết bàn
 
 Hành giả với tâm niệm về tánh Tịch Diệt của Niết bàn:
 
-    “Ta đang thở vào và quán chiếu về bản chất không sinh diệt của vạn pháp. \ Ta đang thở ra và quán chiếu về bản chất không sinh diệt của vạn pháp. \Vị ấy thực tập như thế”.
+    “Ta đang thở vào và quán chiếu về bản chất không sinh diệt của vạn pháp. 
+    Ta đang thở ra và quán chiếu về bản chất không sinh diệt của vạn pháp. 
+    Vị ấy thực tập như thế”.
 
 ####  Quán chiếu về sự buông bỏ
 
