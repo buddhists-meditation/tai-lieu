@@ -7,58 +7,6 @@ categories: jekyll update
 
 # CHÁNH NIỆM QUA 16 ĐỀ MỤC HƠI THỞ
 
-Nội dung:
-
-1.  [Dẫn nhập][1]
-2.  [Ý nghĩa của Satipaṭṭhāna (Niệm Xứ)][2]
-3.  [Tiến trình tu tập chánh niệm qua mười sáu đề mục thiền hơi thở (Ānāpānapabba)][3]  
-    1.  [Giai đoạn một trong phép niệm hơi thở][3-1]
-        1.  [Nhận diện hơi thở vào, hơi thở ra][3-1-1]
-        2.  [Theo dõi hơi thở dài, hơi thở ngắn][3-1-2]
-        3.  [Nhận diện sự có mặt của toàn thân][3-1-3]
-        4.  [Buông thư, làm lắng dịu toàn thân][3-1-4]
-    1.  [Giai đoạn hai trong phép niệm hơi thở][3-2]
-        1.  [Chế tác niềm vui (hỷ)][3-2-1]
-        1.  [Chế tác hạnh phúc (lạc)][3-2-2]
-        1.  [Nhận diện cảm thọ][3-2-3]
-        1.  [Làm lắng dịu những cảm thọ][3-2-4]    
-    1.  [Giai đoạn ba trong phép niệm hơi thở][3-3]
-        1.  [Nhận diện các tâm ý (tâm hành)][3-3-1]
-        1.  [Làm hoan lạc tâm ý (tâm hành)][3-3-2]
-        1.  [Thu nhiếp tâm ý vào định][3-3-3]
-        1.  [Cởi trói tâm ý được giải thoát, tự do][3-3-4]
-    1.  [Giai đoạn bốn trong phép niệm hơi thở][3-4]
-        1.  [Quán chiếu về tính vô thường][3-4-1]
-        2.  [Quán chiếu về sự không đáng tham cầu và vướng mắc][3-4-2]
-        3.  [Quán chiếu về Niết bàn][3-4-3]
-        4.  [Quán chiếu về sự buông bỏ][3-4-4]    
-4.  [Kết luận][4]
-
-[1]: <#dẫn-nhập>
-[2]: <#ý-nghĩa-của-satipaṭṭhāna-niệm-xứ>
-[3]: <#tiến-trình-tu-tập-chánh-niệm-qua-mười-sáu-đề-mục-thiền-hơi-thở-ānāpānapabba>
-[3-1]: <#giai-đoạn-một-trong-phép-niệm-hơi-thở>
-[3-1-1]: <#nhận-diện-hơi-thở-vào-hơi-thở-ra>
-[3-1-2]: <#theo-dõi-hơi-thở-dài-hơi-thở-ngắn>
-[3-1-3]: <#nhận-diện-sự-có-mặt-của-toàn-thân>
-[3-1-4]: <#buông-thư-làm-lắng-dịu-toàn-thân>
-[3-2]: <#giai-đoạn-hai-trong-phép-niệm-hơi-thở>
-[3-2-1]: <#chế-tác-niềm-vui-hỷ>
-[3-2-2]: <#chế-tác-hạnh-phúc-lạc>
-[3-2-3]: <#nhận-diện-cảm-thọ>
-[3-2-4]: <#làm-lắng-dịu-những-cảm-thọ>
-[3-3]: <#giai-đoạn-ba-trong-phép-niệm-hơi-thở>
-[3-3-1]: <#nhận-diện-các-tâm-ý-tâm-hành>
-[3-3-2]: <#làm-hoan-lạc-tâm-ý-tâm-hành>
-[3-3-3]: <#thu-nhiếp-tâm-ý-vào-định>
-[3-3-4]: <#cởi-trói-tâm-ý-được-giải-thoát-tự-do>
-[3-4]: <#giai-đoạn-bốn-trong-phép-niệm-hơi-thở>
-[3-4-1]: <#quán-chiếu-về-tính-vô-thường>
-[3-4-2]: <#quán-chiếu-về-sự-không-đáng-tham-cầu-và-vướng-mắc>
-[3-4-3]: <#quán-chiếu-về-niết-bàn>
-[3-4-4]: <#quán-chiếu-về-sự-buông-bỏ>
-[4]: <#kết-luận>
-
 ##  Dẫn nhập
 
 Chánh niệm được xem là một hệ thống về sự nhận thức tại thời điểm hiện tại, bao gồm cả sự tự nhận thức về bản thân, một cách chú tâm, khách quan và không phán xét. Mục đích chính của niệm hơi thở là để an trú tâm và để đạt đến sự an định. Hơi thở là một đối tượng vừa luôn có mặt, vừa luôn biến đổi theo một cách mà tự nhiên sẽ khiến ta phải chú tâm. Thông qua hơi thở, chúng ta quan sát những suy nghĩ, cảm xúc đến rồi đi mà không đặt câu hỏi “đúng” hay “sai” để không vướng vào cuộc tranh luận với nội tâm trong khoảnh khắc nhất định. 
