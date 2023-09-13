@@ -1,11 +1,9 @@
 ---
 layout: github-temp
-title:  "16 hoi "
+title:  "CHÁNH NIỆM QUA 16 ĐỀ MỤC HƠI THỞ"
 date:   2023-09-11 11:48:34 +0700
 categories: jekyll update
 ---
-
-# CHÁNH NIỆM QUA 16 ĐỀ MỤC HƠI THỞ
 
 ##  Dẫn nhập
 
